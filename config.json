@@ -30,7 +30,7 @@
     "sqlite": { "storage": "data.sqlite" }
   },
 
-  "commandDisabled": [],
+  "commandDisabled": [bot],
   "eventDisabled": [],
 
   "System": {
