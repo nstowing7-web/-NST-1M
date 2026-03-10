@@ -30,8 +30,8 @@
     "sqlite": { "storage": "data.sqlite" }
   },
 
-  "commandDisabled": [bot],
-  "eventDisabled": [],
+  "commandDisabled": [/],
+  "eventDisabled": [/],
 
   "System": {
     "autoRestart": true,
